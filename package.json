@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@nx/angular": "^16.3.2",
     "prettier": "^2.8.8"
   },
   "devDependencies": {
